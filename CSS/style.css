@@ -1,0 +1,124 @@
+/*comnetario*/
+
+body{
+    background-color: #9ccbac;
+}
+
+.punto{
+    background-color: brown;
+}
+
+.segundo{
+    background-color: coral;
+}
+
+
+#primero {
+    color:  #336699;
+        
+}
+
+.ejemplo{
+    background-color: rgb(16, 35, 26);
+    width: 50%;
+    border: 10px solid rgb(34, 14, 14);
+    padding: 10px;
+    text-align: justify;
+    color: azure;
+}
+.articulo1{
+    background-color: rgb(110, 190, 153);
+    width: 20%;
+    border: 10px solid rgb(55, 65, 58);
+    padding: 10px;
+    text-align: justify;
+    color: rgb(188, 208, 208);
+    margin-top: 20px;
+    float: left;
+}
+.seccion1{
+    background-color: rgb(110, 190, 153);
+    width: 20%;
+    border: 10px solid rgb(55, 65, 58);
+    padding: 10px;
+    text-align: justify;
+    color: rgb(188, 208, 208);
+    margin-top: 20px;
+    float: left;
+}
+.aside1{
+    background-color: rgb(110, 190, 153);
+    width: 20%;
+    border: 10px solid rgb(55, 65, 58);
+    padding: 10px;
+    text-align: justify;
+    color: rgb(188, 208, 208);
+    margin-top: 20px;
+}
+
+.main1{
+    background-color: rgb(110, 190, 153);
+    width: 20%;
+    border: 10px solid rgb(55, 65, 58);
+    padding: 10px;
+    text-align: justify;
+    color: rgb(188, 208, 208);
+    margin-top: 20px;
+    float: left;
+}
+
+.linea1{
+    background-color: blueviolet;
+}
+.bloq1{
+    background-color: darksalmon;
+}
+a{
+    color: #CC3300;
+}
+.oculto{
+    display: none;
+}
+.divStatic{
+    position: static;
+    border: 2px solid rebeccapurple;
+    padding: 5px;
+    text-align: justify;
+}
+.divRelative{
+    position: static;
+    border: 2px solid rebeccapurple;
+    padding: 5px;
+    text-align: justify;
+}
+.fixed1{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 30%;
+    border: 1px solid gold;
+    text-align: right;
+    background-color: antiquewhite;
+}
+.header1{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    border: 1px solid gold;
+    text-align: center;
+    background-color: antiquewhite;
+}
+#primero em {
+    background: #FFFFCC;
+    padding: .1em; 
+}
+
+.especial {
+    background: #FFCC99;
+    border: 1px solid #FF9900;
+    padding: .1em;
+}
+.normal span {
+    font-weight: bold;
+}
